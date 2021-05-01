@@ -1,6 +1,7 @@
 # Artifact Award
 
 Todo: 
+- consensus on spelling artefact versus artifact
 - internal process for selecting awardees
 - add hotcrp setting  to include 'award worthiness'
 - what is the award
