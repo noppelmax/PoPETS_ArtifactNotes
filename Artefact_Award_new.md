@@ -5,7 +5,7 @@ Todo:
 - internal process for selecting awardees
 - add hotcrp setting  to include 'award worthiness'
 - what is the award
-- porpose to PETS chairs
+- propose to PETS chairs
 
 Award
  
