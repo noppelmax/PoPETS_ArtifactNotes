@@ -1,5 +1,11 @@
 # PoPETS_ArtifactNotes
 
+TODO List: 
+- Make new reviewer doc. Include: typical timelines, reviewing advice, FAQ 
+- create list of questions as they come up to eventually generate faq for reviewers and authors of artifacts
+
+
+
 
 #Notice to Authors Timeline
 
