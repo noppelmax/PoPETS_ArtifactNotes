@@ -1,4 +1,4 @@
-# Artefact Award
+# Artifact Award
 
 Todo: 
 - internal process for selecting awardees
