@@ -13,7 +13,7 @@ Award
 Award will consist of highlight on the PETs website (similar to other awards) acknowledging the artifacts excellence. 
 
 Award Rules/Eligibility
-Artifact submitted and accepted for a paper published in the current PoPETS publication year in any of the four submission cycles. 
+Artifact submitted and accepted for a paper published in the current PoPETS publication year in any of the four submission cycles. Award worthiness is based on initial submission (not the changes that lead to accept back and forht with reviewers). This encourages a strong initial submission and rewards authors for their efforts.
 
 Award decisions: 
 Artifact committee members during reviews can check a box in HotCRP to indicate that an artifact should be considered for the award. 
