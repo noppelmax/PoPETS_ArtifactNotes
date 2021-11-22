@@ -6,7 +6,7 @@ A new round of artifact review begins when the PoPETs chairs email you a list of
 
 While logged in to HotCRP as an administrator, open the settings for the instance.
 
-1. Go to the `Submissions` tab and make sure the `Open site for submissions` option is checked.
+1. Within settings, go to the `Submissions` tab and make sure the `Open site for submissions` option is checked.
 
 2. Set the `Submission Deadline` field to the artifact submission deadline. We typically set this to same as the camera ready deadline, which you can find out from the chairs or the Call For Papers on the [PoPETs site](https://petsymposium.org). If this is not the first round, this deadline will already be set for the previous round. Just replace the old deadline with the new one. Make sure the deadline is time-zone aware (don't close it too early for those in a later time zone).
 
