@@ -13,7 +13,7 @@ TODO List:
 After a paper has been accepted to an issue of PoPets the list of accepted papers is sent to the aritfact chairs by the current program chairs. This list will be used to generate the HotCRP accounts and send out an invitation to submit an artifact to all authors. 
 
 
-
+All accepted artifacts should be emailed to the maintainer of the PoPETs website. We typically send the paper title and the artifact link.
 
 
 
