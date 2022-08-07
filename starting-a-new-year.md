@@ -12,7 +12,11 @@ The current HotCRP admin is Ian Goldberg. For up to date information, check for 
 
 There is not much configuration necessary to accept submissions. Make sure you open submissions for the first round and set the submission deadline if desired. In the settings menu, select the "Submission Form" setting. Make sure both an abstract and PDF are required. Add a new submission field titled "Artifact link and brief description" of type "multiline text". Set the topics so reviewers can indicate preferences. So far we've used "source code", "data sets", and "other" but feel free to experiment :)
 
+We recently added an indicator for specialized hardware, this helps for identifying artifacts that we may need to reach out to external reviewers for. 
+
 Make sure you select "Save changes" before leaving the screen.
+
+You will also want to ensure the review form has been configured to the preferred information. (e.g. artifact readiness, artifact award worthiness)
 
 ## Inviting artifact committee members
 
