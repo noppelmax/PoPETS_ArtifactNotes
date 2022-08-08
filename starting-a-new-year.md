@@ -18,6 +18,18 @@ Make sure you select "Save changes" before leaving the screen.
 
 You will also want to ensure the review form has been configured to the preferred information. (e.g. artifact readiness, artifact award worthiness)
 
+Text Input, label: Artifact Summary
+Text Input, label: Comments to authors
+Artifact Readiness
+1. Not suitable for review
+2. Needs work
+3. Ready
+
+Award Worthiness (Configure as not visible to authors)
+1. Not suitable
+2. Perhaps suitable
+3. Definitely consider
+
 ## Inviting artifact committee members
 
 We need to make sure the artifact committee PC is ready to go by the first round deadline. I usually send an invitation email with some stats from the previous year and some changes for the upcoming year. This email is sent to the existing artifact committee as well as any new potential committee members. There is an option to sign up or nominate people to be on the artifact committee in the "Reviewer Nomination Form". If you have not gotten the list of artifact reviewers from the current chairs, you can try reaching out to them. We've gotten a large list of reviewers this way.
