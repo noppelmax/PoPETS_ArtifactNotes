@@ -28,4 +28,9 @@ Submission #
 26
 27
 //end round 2
-
+30
+31
+33
+34
+39
+//end round 3
