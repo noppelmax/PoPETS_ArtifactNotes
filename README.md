@@ -1,6 +1,6 @@
 # PoPETS_ArtifactNotes
 
-#Process Change Recommendations/For Consideration
+# Process Change Recommendations/For Consideration
 - Clarification in call as to expectations (functionality and availability required)
 - Add section to artifact review form for response to authors/updates. Several reviwers have been updating their review and labeling it but others have not. This will make things clearer for all involved
 - Instructions to reviewers doc: include information about courtesy, types of good comments/evaluations, etc.
