@@ -1,5 +1,13 @@
 # PoPETS_ArtifactNotes
 
+#Process Change Recommendations/For Consideration
+- Clarification in call as to expectations (functionality and availability required)
+- Add section to artifact review form for response to authors/updates. Several reviwers have been updating their review and labeling it but others have not. This will make things clearer for all involved
+- Instructions to reviewers doc: include information about courtesy, types of good comments/evaluations, etc.
+- Add deadline for artifacts to reach acceptance stage to prevent too much overlap with other rounds and to prevent limbo states for becoming too prolonged
+
+
+
 TODO List: 
 - send out review reminders, author reminders, ...
 - update committee on website
