@@ -20,5 +20,5 @@ At most three reviews for each reveiwer per round
 
 # 2021 year
 
-34 sartifacts submitted
+34 artifacts submitted
 
