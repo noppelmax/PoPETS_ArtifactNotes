@@ -17,3 +17,9 @@
 - Related to above, should we increase the PC size? (Currently, most PC members review 3-4 artifacts.)
 
 - Should we make the outcome of artifacts review more fine-grained? For example, ACM has [a guideline](https://www.acm.org/publications/policies/artifact-review-and-badging-current) for artifact badges that include "Artifacts Available" and "Results Reproduced" among others.
+
+- Do we want artifact appendices like USENIX does (note this will be tricky unless much stronger deadlines are enforced)?
+
+- Add additional documentation for website on what is expected from authors
+
+- Add additional "what makes a good review" to artifact review committee.
