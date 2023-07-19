@@ -1,0 +1,36 @@
+We are in the process of inviting the artifact review committee for
+PETS 2024. Do you know someone who would be great to join the PETs
+artifact committee for the current submission cycle (2024 year)?
+
+For PETS 2023, there were 61 total artifacts submitted, and an average
+of 3 reviews per committee member, with a maximum of 2 assigned reviews
+per committee member each round.
+
+The deadlines and review periods for the upcoming year are similar to
+last year's and we expect the review load to remain the same (or lower).
+Each round authors will submit approximately three weeks after the
+notice of acceptance with initial review period being for three weeks
+following that.
+
+Most artifacts are source code. So, often what the role is consists of
+accessing the code repo, attempting to execute the code base following
+the documentation, and seeing if it corresponds to the paper (reviewing
+the documentation). For most cases, this shouldn't take long. If the
+reviewer runs into issues running it, they spend a short time attempting
+to fix it, but if it is proving to have many issues, then they document
+them, say what they did to get to them and post it back for the authors
+to attempt to address. The authors then fix it (in documentation and/or
+the code) and the reviewer can try again. So unlike a paper,  initial
+artifact review is shorter (in terms of time) but then there are
+multiple short bursts of time needed to finish the iterative process. If
+an artifact is going on too long (or other exception), sometimes the
+chairs take over to finish shepherding it to acceptance.
+
+Please let us know by  July 28th if you or someone else is willing
+to serve on the artifact committee (If you've been on vacation and get
+this email after that date, feel free to reach out still if you are
+willing to be on the committee again and we'll see if it will work).
+
+
+Max and Pasin
+PoPETs Artifact Chairs
