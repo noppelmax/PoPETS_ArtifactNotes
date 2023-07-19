@@ -2,7 +2,7 @@
 
 ## If we continue to develop our code beyond the scope of the paper, which version of the code should we submit? 
 
-There is some flexibility here. You can certainly submit a particular release & add a section in README to point out the more up-to-date github repo. We can also accept the github repo as the submission; in this case, it would be great to clearly point to the version that is consistent to the paper (in case future developments make it inconsistent).
+There is some flexibility here. You can certainly submit a particular release & add a section in `README.md` to point out the more up-to-date Github repository. We can also accept the Github repository as the submission; in this case, it would be great to clearly point to the version that is consistent to the paper (in case future developments make it inconsistent).
 
 ## Do we need VMs or Containers in our submission?
 

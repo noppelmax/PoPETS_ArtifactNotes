@@ -1,6 +1,6 @@
 # Artifact Award
 
-Todo: 
+ToDos: 
 - consensus on spelling `artefact` versus `artifact`
 - add HotCRP setting to include 'award worthiness'
 - propose to PETS 

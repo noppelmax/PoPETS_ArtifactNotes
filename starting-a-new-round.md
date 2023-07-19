@@ -1,4 +1,4 @@
-#Starting a new round of artifact reviews
+# Starting a new round of artifact reviews
 
 A new round of artifact review begins when the PoPETs chairs email you a list of accepted papers for that round of the journal. This list will be a .csv file with the paper titles, names, and email addresses of paper authors.
 

@@ -1,4 +1,4 @@
-#Starting a new year for artifact review
+# Starting a new year for artifact review
 
 Each August, just as PoPETs starts a new review cycle, we also start a new review cycle for artifact review. There are a few things that need to be done to set things up.
 
