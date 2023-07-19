@@ -1,15 +1,13 @@
 # Artifact Award
 
 Todo: 
-- consensus on spelling artefact versus artifact
-- add hotcrp setting  to include 'award worthiness'
+- consensus on spelling `artefact` versus `artifact`
+- add HotCRP setting to include 'award worthiness'
 - propose to PETS 
 
 -------------------------------------------------------------
--------------------------------------------------------------
 
-
-Award
+## Award
 Award will consist of highlight on the PETs website (similar to other awards) acknowledging the artifacts excellence. 
 
 Award Rules/Eligibility
@@ -20,7 +18,7 @@ Artifact committee members during reviews can check a box in HotCRP to indicate 
 A committee of 2-3 members of the artifact committee (including chairs) will evaluate nominated artifacts according to the following principles: 
  
 a) reproducibility - does it do what it says it does/relationship to its paper and for the broader research community
-b) Usability/accessibility - inclusion of potential difificulties and how to address them, adaptations for large hardware/resource demands if applicable,...
+b) Usability/accessibility - inclusion of potential difficulties and how to address them, adaptations for large hardware/resource demands if applicable,...
 c) Readability - easy to follow flow/process for achieving the usable/reproducable/accessible via the documentation. 
 
  
