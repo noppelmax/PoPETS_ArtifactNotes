@@ -12,7 +12,7 @@ last year's, and we expect the review load to remain the same (or lower).
 In each round, authors will submit artifacts approximately three weeks after the notice of acceptance. The initial review period takes place for the following three weeks after that.
 
 Most artifacts are source code. So, the reviewer's role often consists of
-accessing the code repo, attempting to execute the code base following
+accessing the code repository, attempting to execute the code base following
 the documentation, and verify if it corresponds to the paper (reviewing
 the documentation). In most cases, this should take little time. If, however, the reviewer runs into issues; they spend a short time attempting to fix the artifacts
 However, if the artifacts have multiple issues, they document them, describe their progress and what they tried to get them running. 
