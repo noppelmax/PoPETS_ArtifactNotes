@@ -1,7 +1,5 @@
 # What we expect from the authors of artifact submissions
 
-
-
 To ensure a smooth submission process, please follow these important guidelines.
 Firstly, authors should fill out the `template.md` file provided and include it in their artifacts.
 This will help the reviewer better understand your work and ensure a seamless review process.
