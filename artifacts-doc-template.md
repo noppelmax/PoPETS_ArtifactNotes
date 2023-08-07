@@ -41,7 +41,7 @@ Describe how to access your artifacts via persistent sources.
 Valid hosting options are institutional and third-party digital repositories.
 Do not use personal web pages.
 For repositories that evolve over time (e.g., Git Repositories ), specify a specific commit-id or tag to be evaluated.
-In case your repository changes during the evaluation to address the reviewer's feedback, update the commit-id or tag in this very document.
+In case your repository changes during the evaluation to address the reviewer's feedback, please provide an updated link (or commit-id / tag) in a comment.
 
 
 ### Set up the environment
