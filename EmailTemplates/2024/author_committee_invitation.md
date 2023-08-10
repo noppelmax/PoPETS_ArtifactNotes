@@ -1,7 +1,7 @@
 You are one of the authors of the top artifacts at PoPETS 2023 and we would like
 to invite you to be part of the PoPETs artifact committee for the year 2024. 
 
-In the 2023 of this process, there were 61 total artifacts submitted,
+In the year 2023 of this process, there were 61 total artifacts submitted,
 and an average of 3 reviews per committee member, with a maximum of 2
 assigned reviews per committee member each round.
 
@@ -16,9 +16,9 @@ last for three weeks. The details of the review process can be found [here](http
 The main change in the reviewing process this year is that we allow the authors
 to choose between one of two badges: "Available" and "Reproduced". In the former
 case, the reviewers will not be asked to rerun the experiments. Furthermore, we
-are using a more standardized form for the README.md file in the submission. We
-hope that these changes will help smoothen the process and reduce the workload
-of the reviewers further.
+are providing a more [standardized form](https://petsymposium.org/files/template.md) for the authors to fill in during the
+submission. We hope that these changes will help smoothen the process and reduce
+the workload of the reviewers further.
 
 Please reply to this email to let us know by August 24, 2024 if you're willing
 to serve on the artifact committee this upcoming year.
