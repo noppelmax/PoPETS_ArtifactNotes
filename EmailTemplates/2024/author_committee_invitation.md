@@ -16,7 +16,7 @@ last for three weeks. The details of the review process can be found [here](http
 The main change in the reviewing process this year is that we allow the authors
 to choose between one of two badges: "Available" and "Reproduced". In the former
 case, the reviewers will not be asked to rerun the experiments. Furthermore, we
-are using a more standardized form for the README file in the submission. We
+are using a more standardized form for the README.md file in the submission. We
 hope that these changes will help smoothen the process and reduce the workload
 of the reviewers further.
 
