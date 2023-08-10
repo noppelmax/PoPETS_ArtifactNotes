@@ -20,10 +20,11 @@ build upon, or deploy your research is encouraged.
 For a detailed list of artifact submission guidelines, please see the artifacts
 page on the PoPETs website: https://petsymposium.org/artifacts.php. Please note
 that there are a few changes compared to last year:
-* We are providing a [template](https://petsymposium.org/files/template.md) for
-the README.md file. Please use it to help smoothen the reviewing process.
 * This year, you will be able to choose one of the two badges to be evaluated on
 "Available" or "Reproduced".
+* We are providing a [template](https://petsymposium.org/files/template.md) for
+the artifact appendix. Please fill in as much information as possible and upload
+it with your submission.
 
 To submit your artifact, create an account on our artifact submission
 site for [YYYY.I]: [Artifact HotCRP URL].
