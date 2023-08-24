@@ -2,11 +2,21 @@
 
 Each August, just as PoPETs starts a new review cycle, we also start a new review cycle for artifact review. There are a few things that need to be done to set things up.
 
+## Inviting artifact committee members
+
+We need to make sure the artifact committee PC is ready to go by the first round deadline. I usually send an invitation email with some stats from the previous year and some changes for the upcoming year. This email is sent to the existing artifact committee as well as any new potential committee members. There is an option to sign up or nominate people to be on the artifact committee in the "Reviewer Nomination Form". If you have not gotten the list of artifact reviewers from the current chairs, you can try reaching out to them. We've gotten a large list of reviewers this way.
+
+Once an artifact reviewer has replied to the invitation email, add them to the HotCRP instance. (See below.) You should also email the publicity chairs to update the list of committee members.
+
+# Starting a new round of artifact reviews
+
 ## Creating a new HotCRP instance
 
-You'll need to email the PoPETs HotCRP admin to create a new instance. The URL for the artifact submission site has been https://submit.petsymposium.org/artifactYYYY where YYYY is the 4 digits of the upcoming year. As an example, in August of 2021 we are now setting up the instance for the 2022 submission year and so the submission site is https://submit.petsymposium.org/artifact2022.
+We now use separate instances for different rounds. You'll need to email the PoPETs HotCRP admin to create a new instance. The URL for the artifact submission site has been https://submit.petsymposium.org/artifactYYYY.R where YYYY is the 4 digits of the upcoming year and R is the round number. As an example, in August of 2023 we are now setting up the instance for the 2022 round 1 submission year and so the submission site is https://submit.petsymposium.org/artifact2023.1.
 
 The current HotCRP admin is Ian Goldberg. For up to date information, check for the "Infrastructure Chairs" on this year's CFP.
+
+If this is the first round, you will have to copy the email list of the reviewers over from the previous round.
 
 ## Configuring the HotCRP instance
 
@@ -29,9 +39,3 @@ Award Worthiness (Configure as not visible to authors)
 1. Not suitable
 2. Perhaps suitable
 3. Definitely consider
-
-## Inviting artifact committee members
-
-We need to make sure the artifact committee PC is ready to go by the first round deadline. I usually send an invitation email with some stats from the previous year and some changes for the upcoming year. This email is sent to the existing artifact committee as well as any new potential committee members. There is an option to sign up or nominate people to be on the artifact committee in the "Reviewer Nomination Form". If you have not gotten the list of artifact reviewers from the current chairs, you can try reaching out to them. We've gotten a large list of reviewers this way.
-
-Once an artifact reviewer has replied to the invitation email, add them to the HotCRP instance.
