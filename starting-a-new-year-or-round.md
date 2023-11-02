@@ -12,11 +12,11 @@ Once an artifact reviewer has replied to the invitation email, add them to the H
 
 ## Creating a new HotCRP instance
 
-We now use separate instances for different rounds. You'll need to email the PoPETs HotCRP admin to create a new instance. The URL for the artifact submission site has been https://submit.petsymposium.org/artifactYYYY.R where YYYY is the 4 digits of the upcoming year and R is the round number. As an example, in August of 2023 we are now setting up the instance for the 2022 round 1 submission year and so the submission site is https://submit.petsymposium.org/artifact2023.1.
+We now use separate instances for different rounds. You'll need to email the PoPETs HotCRP admin to create a new instance. The URL for the artifact submission site has been https://artifact.petsymposium.org/artifactYYYY.R where YYYY is the 4 digits of the upcoming year and R is the round number. As an example, in November of 2023 we are now setting up the instance for the 2022 round 1 submission year and so the submission site is https://artifact.petsymposium.org/artifact2024.2.
 
 The current HotCRP admin is Ian Goldberg. For up to date information, check for the "Infrastructure Chairs" on this year's CFP.
 
-If this is the first round, you will have to copy the email list of the reviewers over from the previous round.
+If this is the first round, you will have to add the email addresses of the reviewers that accepted the invitations directly. If this is not the first round, then HotCRP admin can run a script to copy over the email list from the previous round.
 
 ## Configuring the HotCRP instance
 
