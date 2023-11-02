@@ -6,16 +6,15 @@ others to build on the work described in the paper. Artifact submissions
 are requested from authors of all accepted papers, and although they are
 optional, we strongly encourage you to submit your artifacts for review.
 
-You can see a sampling of submitted artifacts from the 2020 issue of
+You can see a sampling of submitted artifacts from the 2022 issue of
 PoPETs linked along with the papers on the website:
-https://petsymposium.org/2020/program.php
+https://petsymposium.org/2022/paperlist.php
 
-The deadline for artifact submissions this round is [Deadline], the
-same as the camera-ready deadline. Artifacts can include source code for
-proofs of concept, measurements, simulations, datasets, and build
-environments. Anything you can think of that would help other
-researchers and developers of privacy enhancing technologies reproduce,
-build upon, or deploy your research is encouraged.
+The deadline for artifact submissions this round is [Deadline].
+Artifacts can include source code for proofs of concept, measurements,
+simulations, datasets, and build environments. Anything you can think of that
+would help other researchers and developers of privacy enhancing technologies
+reproduce, build upon, or deploy your research is encouraged.
 
 For a detailed list of artifact submission guidelines, please see the artifacts
 page on the PoPETs website: https://petsymposium.org/artifacts.php. Please note
