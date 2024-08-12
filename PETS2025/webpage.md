@@ -67,8 +67,8 @@ The "Artifacts Reproduced" badge includes everything the "Artifacts Functional" 
 
 Even if the authors choose this option, the review committee may request to grant only an "Artifacts Functional" or "Artifacts Available" badge if the reviewers cannot reproduce the results (e.g., lack of computational resources, differing results, ...)
 
-## What makes a Good Submission
-# What we expect from the authors of artifact submissions
+
+# What makes a Good Submission
 
 To ensure a smooth submission process, please follow these important guidelines.
 Firstly, authors should fill out the `template.md` file provided and include it in their artifacts.
