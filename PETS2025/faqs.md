@@ -1,4 +1,5 @@
-# FAQ
+
+# FAQs
 
 ## If we continue to develop our code beyond the scope of the paper, which version of the code should we submit? 
 

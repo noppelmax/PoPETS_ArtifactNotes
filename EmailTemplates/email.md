@@ -37,3 +37,6 @@ site for 2023.1: https://submit.petsymposium.org/artifact2023/
 
 Please let us know at <artifact-pets@petsymposium.org>  if you have any
 questions or concerns!
+
+<name1> and <name2>
+PoPETs 2024 Artifact Chairs

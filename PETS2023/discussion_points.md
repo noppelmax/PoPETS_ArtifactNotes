@@ -1,4 +1,4 @@
-# Discussion Points (PETS 2023)
+# Discussion Points for PETS 2023
 
 - Should we create multiple instances of HotCRP? This might help for "overlapping" issues when an artifact from previous issue is not yet accepted but we need to start the process for the next round already. Also, this is the same as how PETS operate.
 

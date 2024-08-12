@@ -41,5 +41,5 @@ this email after that date, please feel free to reach out if you are
 willing to be on the committee. We'll see if it will work.
 
 
-Max and Pasin
+<name1> and <name2>
 PoPETs 2024 Artifact Chairs

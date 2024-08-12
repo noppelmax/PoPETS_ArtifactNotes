@@ -1,11 +1,5 @@
+
 # Artifact Award
-
-ToDos: 
-- consensus on spelling `artefact` versus `artifact`
-- add HotCRP setting to include 'award worthiness'
-- propose to PETS 
-
--------------------------------------------------------------
 
 ## Award
 Award will consist of highlight on the PETs website (similar to other awards) acknowledging the artifacts excellence. 
@@ -22,5 +16,3 @@ A committee of 2-3 members of the artifact committee (including chairs) will eva
 **b) Usability/Accessibility** - inclusion of potential difficulties and how to address them, adaptations for large hardware/resource demands if applicable,...
 
 **c) Readability** - easy to follow flow/process for achieving the usable/reproducible/accessible via the documentation. 
-
- 
