@@ -4,7 +4,7 @@ PoPETs reviews and publishes digital artifacts related to its accepted papers. T
 
 Possible artifacts include (but are not limited to):
 
- - Source code (e.g., system implementations, proof of concepts)
+- Source code (e.g., system implementations, proof of concepts)
 - Datasets (e.g., network traces, raw study data)
 - Scripts for data processing or simulations
 - Machine-generated proofs
@@ -42,36 +42,42 @@ Artifacts are evaluated by the artifact review committee. The committee evaluate
 - If the dataset includes survey results, provide a copy of the original survey with raw results. This is vital for replication studies and helping researchers interpret the context of your results.
 - If the dataset is very large (> 10 MB) please state so in the `README.md` or documentation.
 - It's encouraged to accompany the data with processing scripts that produce any graphs or statistical output that appear in the paper.
- 
+
 ## Artifact Badges
 
-Each accepted artifact will be granted one of three badges. During the submission, the authors must select which badge they want their artifacts to be evaluated against. We encourage the authors to choose a appropriate badge, to ease the reviewing effort.
+Each accepted artifact will be granted one of three badges. During the submission, the authors must select which badge they want their artifacts to be evaluated against. We encourage the authors to choose an appropriate badge, to ease the reviewing effort.
 
 ### Artifacts Available
-This "Artifacts Available" badge indicates that the artifacts are publicly available at a permanent location with clear documentation on how it relates to the corresponding paper and, if applicable, how to execute/use the artifact. This badge does *not* mean that the reviewers have reproduced the results or checked the code for full functionality. The reviewer may however take some effort to check the relevance for the paper, and the presentation of the artifact.
+This "Artifacts Available" badge indicates that the artifacts are publicly available at a permanent location.  The reviewer should check that the artifact can be retrieved, and that it includes a license. The reviewer may check that the artifact is relevant to the paper. This badge does *not* mean that the reviewers have reproduced the results or checked that the code executes or that they have reproduced the results for full functionality.
 
 ### Artifacts Functional
-First of all, the "Artifacts Functional" badges includes everything the "Available" badge does. In the following, we think of your experiments as being arranged in pipelines of multiple stages. The "Artifacts Functional" requires that each stage of your core experiments is represented. For the functional badge, individual stages can run in a simplified version to demonstrate that the submitted artifact in principle can generate the results presented in the paper. In some cases individual stages might be impossible to repeat (even in a simplified version). In such cases we expect a (potential) simplified result to be given, which can be used to run the later stages of the pipeline. Because of the involved simplification, we do not expect the results to be reproduced exactly. For the "Artifacts Functional" badge your artifacts need to suggest that they can reproduce the results presented in your paper, if run in completely instead of being simplified. Every simplified stage must be mentioned clearly in the artifact. In the following we provide some examples for the "Artifacts Functional" badge: 
+First of all, the "Artifacts Functional" badge includes everything the "Available" badge does. Additionally, the artifact should satisfy these criteria:
+- Documentation: Clearly document how it relates to the paper, and how it may be used.
+- Completeness: Include all of the key components described in the paper.
+- Exercisability: Include the scripts and data needed to run the experiments described in the paper. Can the software be successfully executed?
+Some artifacts may not, by definition, be able to satisfy the completeness or exercisability criteria. For instance, an artifact may have a proprietary machine learning model as a key component of the system, and so, achieving completeness may be difficult. Artifacts may rely on datasets that are too large to be included, or contain personally identifiable information, and so, satisfying exercisability is difficult. We guide authors below, using some examples, on how they may still prepare their artifact for this badge.Additionally, some artifacts, such as longitudinal studies or hardware-based contributions, may be infeasible for the “Artifact Reproduced” badge, as reviewers have limited time and only commodity hardware available. Nevertheless, these authors can prepare their artifacts for the “Artifact Functional” badge, as follows.
 
 #### Examples
-**Tools based on big machine learning models.** If a machine learning model is required to execute the presented tool, the authors should provide it unless they have a good reason not to do so (e.g., the model is incredibly big or proprietary). If they can't share the full model, we'd expect them to share some dummy model (perhaps with worse performance but a more manageable size), which can be used to test the principle functionality of the presented tool. Ideally the code to train the original model is provided (but not executed).
+Consider the experiments in your artifact as arranged in a pipeline of multiple stages, such as data collection, data processing, and producing plots or tables from the paper. The “Completeness” and “Exercisability” criteria require each stage to be represented. Our key advice is to either present each stage in a simplified manner or to include dummy data to represent each stage.
+**Tools based on large machine learning (ML) models.** If an ML model is required to execute the presented tool, the authors should provide it unless it is proprietary. Authors may use git-lfs to commit large model files to their repository. If they can not share the model, we expect them to share a dummy model, which may perhaps perform worse  , but which can be used to test the principle functionality of the presented tool. Ideally, authors should provide the code to train the original model,  though depending on the contributions of the paper, it need not be executed.
 
-**Extensive computing requirements.** Similarly to the point above; If your experiment has high computational requirements (days or weeks of compute time), please select the "Artifacts Functional" badge and (if possible) provide a simplified version of the experiment (less bits, less training data, less epochs,...) to enable the reviewers to check the functionality of that stage. Provide the results of the full experiments in addition, so that reviewers can check the later stages with the real results.
+**Lengthy experiment runtimes.** Similar to the point above,if the experiment requiresdays or weeks of compute time on commodity hardware, authors should  select the "Artifacts Functional" badge. Authors should also provide a simplified version of the experiment, which may run on less training data or for fewer epochs of time, in order to enable the reviewers to check the functionality of that stage. Authors should additionally provide results of the full experiments in the repository, so that reviewers can verify the functionality of the later stages with these results.
 
-**User studies/crawling studies.** Extensive user studies and crawling studies cannot be repeated within the reviewing process. But the (anonymized/pseudonymized) raw data should be provided, incl. the evaluation scripts. However, we allow for exceptions for this point if a publication of raw data is not possible because of legal requirements, privacy, or ethical concerns, e.g., if a the data cannot be pseudonymized properly. In such cases a data set with dummy data can be used to test the functionality of the remaining stages.
+**User studies, longitudinal studies and crawls.**  These studies  cannot be repeated within the reviewing process. However, the authors should provide the evaluation scripts to reproduce the main results of the paper.  Pseudonymized raw data should also be published, unless forbidden by legal requirements, privacy, or ethical concerns.For instance, if the data cannot be pseudonymized properly, or, if the users have not consented to their pseudonymized data being published, it should not be published. In such cases, a data set with dummy data should be included . Reviewers should be able to execute the evaluation scripts on either the pseudonymized raw data or dummy data.
 
-**Special physical setups.** If your paper requires a special physical setup, provide (if possible) a way of simulating it (e.g., VMs) or at least the raw results of the experiments, so that reviewers can verify the remaining stages been functional. 
+**Hardware-based contributions .** If the artifact  requires certain hardware, please request for it within the hardware requirements of the template. Alternately, some artifacts may contribute to state-of-the-art hardware attacks and defenses. In this case, the authors may simulate   the hardware. Authors should publish the raw results of the experiments, so that reviewers can verify the remaining stages are functional.
 
 ### Artifacts Reproduced
-The "Artifacts Reproduced" badge includes everything the "Artifacts Functional" does, plus all the main contributions can actually be reproduced by the reviewers. Authors must specify the commands to run the artifacts clearly and describe how to reproduce each main finding of the paper. Best practice is to point out which part of the paper is reproduced by a given script, e.g., name the table or figure. Also, the authors must highlight which results of the paper are not reproducible with the given artifacts and why. Note that minor additional experiment that do not contribute to much to the paper might not be included in the artifact. The artifact's quality, structure, and documentation must allow the reviewers to check whether the artifact works as claimed in the paper.
+The "Artifacts Reproduced" badge includes everything the "Artifacts Functional" does, plus all the main contributions that can be reproduced by the reviewers. Authors must specify the commands to run the artifacts clearly and describe how to reproduce each main finding of the paper. Best practice is to point out which part of the paper is reproduced by a given script, e.g., name the table or figure. Also, the authors must highlight which results of the paper are not reproducible with the given artifacts and why. Note that minor additional experiments that do not significantly contribute to the paper may not be included in the artifact.
 
-Even if the authors choose this option, the review committee may request to grant only an "Artifacts Functional" or "Artifacts Available" badge if the reviewers cannot reproduce the results (e.g., lack of computational resources, differing results, ...)
+Even if the authors choose this option, the review committee may grant only an "Artifacts Functional" or "Artifacts Available" badge if the reviewers cannot reproduce the results (e.g., lack of computational resources, differing results, ...)
 
 
 # What makes a Good Submission
 
 To ensure a smooth submission process, please follow these important guidelines.
 Firstly, authors should fill out the `template.md` file provided and include it in their artifacts.
+The authors can include it as, or append it to, their `README.md` file.
 Mention the badge you deem reasonable for your artifact and, if necessary, describe which stages are simplified or skipped and why.
 This will help the reviewer better understand your work and ensure a seamless review process.
 Secondly, prompt communication is essential.
