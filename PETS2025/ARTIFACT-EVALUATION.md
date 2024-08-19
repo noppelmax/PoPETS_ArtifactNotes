@@ -9,12 +9,12 @@ Requested Badge: Either **Available**, **Functional**, or **Reproduced**
 ## Description
 A short description of your artifact and how it links to your paper.
 
-### Security/Privacy Issues and Ethical Concerns
+### Security/Privacy Issues and Ethical Concerns (All badges)
 If your artifact holds any risk to the security or privacy of the reviewer's machine, specify them here, e.g., if your artifact requires a specific security mechanism, like the firewall, ASLR, or another thing, to be disabled for its execution.
 Also, emphasize if your artifact contains malware samples, or something similar, to be analyzed.
 In addition, you should highlight any ethical concerns regarding your artifacts here.
 
-## Basic Requirements (Functional and Reproduced Only)
+## Basic Requirements (Only for Functional and Reproduced badges)
 Describe the minimal hardware and software requirements of your artifact and estimate the compute time and storage required to run the artifact.
 
 ### Hardware Requirements
@@ -36,14 +36,14 @@ More specifically, a reviewer, who knows that the evaluation might take 10 hours
 In the following, describe how to access our artifact and all related and necessary data and software components.
 Afterward, describe how to set up everything and how to verify that everything is set up correctly.
 
-### Accessibility
+### Accessibility (All badges)
 Describe how to access your artifact via persistent sources.
 Valid hosting options are institutional and third-party digital repositories.
 Do not use personal web pages.
 For repositories that evolve over time (e.g., Git Repositories ), specify a specific commit-id or tag to be evaluated.
 In case your repository changes during the evaluation to address the reviewer's feedback, please provide an updated link (or commit-id / tag) in a comment.
 
-### Set up the environment (Functional and Reproduced Only)
+### Set up the environment (Only for Functional and Reproduced badges)
 Describe how the reviewers should set up the environment for your artifact, including downloading and installing dependencies and the installation of the artifact itself.
 Be as specific as possible here.
 If possible, use code segments to simply the workflow, e.g.,
@@ -54,7 +54,7 @@ apt install libxxx xxx
 ```
 Describe the expected results where it makes sense to do so.
 
-### Testing the Environment (Functional and Reproduced Only)
+### Testing the Environment (Only for Functional and Reproduced badges)
 Describe the basic functionality tests to check if the environment is set up correctly.
 These tests could be unit tests, training an ML model on very low training data, etc..
 If these tests succeed, all required software should be functioning correctly.
@@ -64,7 +64,7 @@ Use code segments to simplify the workflow, e.g.,
 python envtest.py
 ```
 
-## Artifact Evaluation (Functional and Reproduced Only)
+## Artifact Evaluation (Only for Functional and Reproduced badges)
 This section includes all the steps required to evaluate your artifact's functionality and validate your paper's key results and claims.
 Therefore, highlight your paper's main results and claims in the first subsection. And describe the experiments that support your claims in the subsection after that.
 
@@ -98,11 +98,11 @@ python experiment_1.py
 #### Experiment 3: Name 
 ...
 
-## Limitations
+## Limitations (Only for Functional and Reproduced badges)
 Describe which tables and results are included or are not reproducible with the provided artifact.
 Provide an argument why this is not included/possible.
 
-## Notes on Reusability
+## Notes on Reusability (Only for Functional and Reproduced badges)
 First, this section might not apply to your artifacts.
 Use it to share information on how your artifact can be used beyond your research paper, e.g., as a general framework.
 The overall goal of artifact evaluation is not only to reproduce and verify your research but also to help other researchers to re-use and improve on your artifacts.
