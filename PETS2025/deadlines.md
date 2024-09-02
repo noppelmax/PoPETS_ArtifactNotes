@@ -1,13 +1,16 @@
 # PETS 2025
 
+All deadlines are at 23:59 AoE.
+
+
 ## 2025.1 (Max)
 
 | What?                |          When?  |
 |----------------------|-----------------|
-| Call for Artifacts:  | Aug 11th 2024   |
-| Submission Deadline: | Aug 25th 2024   |
-| Bidding Deadline:    | ?               |
-| Review Deadline:     | ?               |
+| Call for Artifacts:  | Sept 2nd 2024   |
+| Submission Deadline: | Sept 27th 2024  |
+| Bidding Deadline:    | Oct 4th 2024    |
+| Review Deadline:     | Oct 30th 2024   |
 
 ## 2025.2 (Miti)
 
