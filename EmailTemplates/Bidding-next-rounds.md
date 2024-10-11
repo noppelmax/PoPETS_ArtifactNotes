@@ -10,6 +10,8 @@ indicated your conflicts, please do so.
 Please follow the instructions attached below to indicate preferences on which
 artifacts you would like to review.
 
+IMPORTANTLY: Please set a negative preference for any submission you cannot review due to missing resources,  e.g., no available GPUs.
+
 Use the link below to sign in to the site.
 
 %LOGINURL%

@@ -11,6 +11,8 @@ HotCRP and on the Pets webpage. Let us know if there are any errors.
 We have opened up bidding for committee members to indicate preferences on
 which artifacts they would like to review.
 
+IMPORTANTLY: Please set a negative preference for any submission you cannot review due to missing resources,  e.g., no available GPUs.
+
 Use the link below to sign in to the site.
 
 <ADD URL>
