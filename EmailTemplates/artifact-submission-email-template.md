@@ -10,8 +10,7 @@ You can see a sampling of submitted artifacts from the 2020 issue of
 PoPETs linked along with the papers on the website:
 https://petsymposium.org/2020/program.php
 
-The deadline for artifact submissions this round is [Deadline], the
-same as the camera-ready deadline. Artifacts can include source code for
+The deadline for artifact submissions this round is [Deadline]. Artifacts can include source code for
 proofs of concept, measurements, simulations, datasets, and build
 environments. Anything you can think of that would help other
 researchers and developers of privacy enhancing technologies reproduce,
