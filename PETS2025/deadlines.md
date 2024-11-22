@@ -19,8 +19,8 @@ All deadlines are at 23:59 AoE.
 | Call for Artifacts:  | Nov 6th 2024    |
 | Submission Deadline: | ~~Nov 20th 2024~~ Nov 29th 2024   |
 | Bidding Deadline:    | Dec 6th 2024    |
-| Review Deadline:     | Dec 20th 2024   |
-| Finalized Deadline:  | Jan 13th 2024 (Due to holidays) | 
+| Review Deadline:     | Jan 6th 2024 (Due to holidays) |
+| Finalized Deadline:  | Jan 27th 2024   | 
 
 ## 2025.3 (Max)
 
