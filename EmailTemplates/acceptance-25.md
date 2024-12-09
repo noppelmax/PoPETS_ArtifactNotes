@@ -2,7 +2,7 @@ Thank you both the reviewers and the authors for the suggestions and improvement
 
 - Artifacts Available
 - Artifacts Functional
-- Arfifacts Reproduced
+- Artifacts Reproduced
 
 Note that the link shown on PETS website will be
 
