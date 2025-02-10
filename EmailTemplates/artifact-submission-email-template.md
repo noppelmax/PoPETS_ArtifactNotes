@@ -30,7 +30,7 @@ Submission Deadline:          March 05th 2025
 
 Bidding Deadline:             March 12th 2025
 
-Review Deadline:              April 02th 2025
+Review Deadline:              April 02nd 2025
 
 Artifact Finalized Deadline:  April 30th 2025
 
