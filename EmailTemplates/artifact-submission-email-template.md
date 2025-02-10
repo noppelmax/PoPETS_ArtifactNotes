@@ -27,8 +27,11 @@ site for 2025.3:
 The next deadlines are:
 
 Submission Deadline:          March 05th 2025
+
 Bidding Deadline:             March 12th 2025
+
 Review Deadline:              April 02th 2025
+
 Artifact Finalized Deadline:  April 30th 2025
 
 We have ensured that none of the deadlines fall on the holidays. That being said, please actively respond to reviewers' comments at your earliest convenience, so that your artifact can be awarded badge(s) by the Artifact Finalized Deadline.
