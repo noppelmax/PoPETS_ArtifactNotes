@@ -18,7 +18,7 @@ https://petsymposium.org/2024/program.php
 
 The deadline for artifact submissions this round is:
 
-  **Friday, 13 December 2024 at 23:59 AoE**.
+  **Wednesday, 05 March 2025 at 23:59 AoE**.
 
 To submit your artifact, create an account on our artifact submission
 site for 2025.2: 
@@ -26,10 +26,10 @@ site for 2025.2:
 
 The next deadlines are:
 
-Submission Deadline:          Dec 13th 2024
-Bidding Deadline:             Dec 20th 2024
-Review Deadline:              Jan 13th 2025
-Artifact Finalized Deadline:  Jan 31st 2025
+Submission Deadline:          March 05th 2025
+Bidding Deadline:             March 12th 2025
+Review Deadline:              April 02th 2025
+Artifact Finalized Deadline:  April 30th 2025
 
 We have ensured that none of the deadlines fall on the holidays. That being said, please actively respond to reviewers' comments at your earliest convenience, so that your artifact can be awarded badge(s) by the Artifact Finalized Deadline.
 
