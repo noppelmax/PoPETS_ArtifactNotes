@@ -21,8 +21,8 @@ The deadline for artifact submissions this round is:
   **Wednesday, 05 March 2025 at 23:59 AoE**.
 
 To submit your artifact, create an account on our artifact submission
-site for 2025.2: 
-  > https://artifact.petsymposium.org/artifact2025.2/ 
+site for 2025.3: 
+  > https://artifact.petsymposium.org/artifact2025.3/ 
 
 The next deadlines are:
 
