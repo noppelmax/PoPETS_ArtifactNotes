@@ -29,7 +29,7 @@ All deadlines are at 23:59 AoE.
 | Call for Artifacts:  | Feb 12th 2025   |
 | Submission Deadline: | Mar 12th 2025   |
 | Bidding Deadline:    | Mar 24th 2025   | (Delayed from March 19th)
-| Review Deadline:     | Apr 09th 2025   |
+| Review Deadline:     | <del>Apr 09th 2025<\del> Apr 16th, 2025   |
 
 ## 2025.4 (Miti)
 
